@@ -16,21 +16,29 @@ h1 {
     background-image: none;
     background-color: grey;
     border: 5px solid black;
-    height: 800px;
+    height: 800px ;
     margin-top: 20px;
     margin-left: 100px;
     margin-bottom: 100px;
     margin-right: 100px;
-    width: fit-content;
-}
-
-.about-bar {
-    display: flex;
+    width: 1007px;
 }
 
 .me {
     height: 250px;
     border: 5px dotted black;
     border-radius: 100%;
+    background-color: grey;
     margin: 20px;
+}
+
+.welcome-text {
+    background-color: grey;
+    background-image: none;
+}
+
+.this-div {
+    background-color: grey;
+    background-image: none;
+    display: flex;
 }
